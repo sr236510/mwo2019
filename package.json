@@ -45,6 +45,6 @@
     ]
   },
   "devDependencies": {
-    "react-dev-utils": "^9.1.0"
+    "react-dev-utils": "^11.0.4"
   }
 }
